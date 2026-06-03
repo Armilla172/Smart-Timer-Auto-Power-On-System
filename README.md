@@ -17,7 +17,7 @@ Submitted to: Engr. Levi Corvera
  SOURCE CODE
 - [⚡ Arduino Uno Code](Arduino_Code.ino)
 - [🚀 ESP32 Code](ESP32_Code.ino)
-- *(or)* [📦 Source Code (.ZIP)](Source_Code.zip)
+
 
  PROJECT SUMMARY
 This project automatically detects power return after brownout, waits **5 seconds** for safety, then turns ON computers automatically. Uses **Arduino / ESP32**, **2N2222 Transistor**, **LED indicators**, and **Buzzer**. Built and tested successfully using Universal PCB, design ready for custom PCB fabrication.
